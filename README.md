@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kumar-yks&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kumar-yks" /> </p>
 
-- 🌱 I’m currently learning **SAAS**
+- 🌱 I’m currently learning **SCSS**
 
 - 💬 Ask me about **Javascript**
 
